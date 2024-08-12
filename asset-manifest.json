@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/naverSearch/static/css/main.e6c13ad2.css",
+    "main.js": "/naverSearch/static/js/main.e811d519.js",
+    "static/js/453.1df9c077.chunk.js": "/naverSearch/static/js/453.1df9c077.chunk.js",
+    "index.html": "/naverSearch/index.html",
+    "main.e6c13ad2.css.map": "/naverSearch/static/css/main.e6c13ad2.css.map",
+    "main.e811d519.js.map": "/naverSearch/static/js/main.e811d519.js.map",
+    "453.1df9c077.chunk.js.map": "/naverSearch/static/js/453.1df9c077.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e811d519.js"
+  ]
+}
